@@ -1,6 +1,1 @@
-Hanoi tower. 
-Squad: lone wolf. 
-Today I want to present Hanoi tower. It`s simple puzzle with simple rules. My game created for people who wants just chil and take a rest after work by easy puzzle. 
-The hardest thing in my game is phisics of moveable objects. 
-I am inspeared by massive numders of games in google play) 
-Have a good day =)
+Hanoi tower. Squad: lone wolf. Today I want to present Hanoi tower. It`s a simple puzzle with simple rules. My game is created for people who want just to chill and take a rest after work solving easy puzzle. The hardest thing in my game is physics of moveable objects. I am inspired by massive amount of games in google play) Have a good day =)
